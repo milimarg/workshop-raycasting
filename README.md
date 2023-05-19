@@ -1,15 +1,9 @@
 # Workshop Raycasting
 
-## 1. Création d’une boucle de jeu
+## 1. Raycasting 2D
 
 
-## 2. Création d’une carte en 2D
-
-
-## 3. Création de l'algorithme Raycasting
-
-
-## 4. Rendu
+## 2. Raycasting 3D
 
 
 ## 5. Pour aller plus loin
