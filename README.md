@@ -1,15 +1,15 @@
 # Workshop Raycasting
 
 ## 1. Raycasting 2D
-- Affichage de la carte et du joueur
-- Lancer de rayons et collisions avec les murs
-- Se déplacer dans la carte
+- Display the map and the player
+- Cast rays and wall collisions
+- Move in the map
 
 ## 2. Raycasting 3D
-- Calcul de la largeur et de la hauteur des murs
-- Colorer les murs pour donner de la profondeur
+- Calculating wall width and height
+- Color walls to give them depth
 
-## 3. Pour aller plus loin
-- Ajouter un sol et un plafond
-- Ajouter des collisions
-- Appliquer des textures sur les murs
+## 3. To go further
+- Adding a ground and a ceiling
+- Adding collisions player-walls
+- Apply textures on walls

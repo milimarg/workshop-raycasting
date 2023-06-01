@@ -4,6 +4,17 @@
     #include <SFML/Graphics.h>
     #include <SFML/Window.h>
 
+static const int map[64] = {
+        1, 1, 1, 1, 1, 1, 1,
+        1, 0, 0, 0, 0, 0, 1,
+        1, 0, 0, 0, 0, 0, 1,
+        1, 0, 0, 0, 0, 0, 1,
+        1, 0, 0, 0, 0, 0, 1,
+        1, 0, 1, 0, 0, 0, 1,
+        1, 0, 0, 0, 0, 0, 1,
+        1, 1, 1, 1, 1, 1, 1,
+};
+
 typedef struct raycaster_s {
     // variables for the whole raycaster
 } raycaster_t;
