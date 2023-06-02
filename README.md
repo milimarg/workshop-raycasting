@@ -25,3 +25,5 @@ radians = angle * PI / 180 <br>
 
 **Calculate distance between player and ray** <br>
 distance = (cos(ray_angle) * (ray_x - player_x)) - (sin(ray_angle) * (ray_y - player_y)) <br>
+
+**NB: trigonometry functions use radians.**
