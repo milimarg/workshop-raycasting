@@ -2,12 +2,12 @@
 
 You'll only have to edit functions with comments in it.
 
-## 1. Raycasting 2D
+## 1. Raycasting 2D (help)
 - Display the map and the player
 - Cast rays and wall collisions
 - Move in the map
 
-## 2. Raycasting 3D
+## 2. Raycasting 3D (help)
 - Calculating wall width and height
 - Color walls to give them depth
 
