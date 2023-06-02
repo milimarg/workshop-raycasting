@@ -2,12 +2,12 @@
 
 You'll only have to edit functions with comments in it.
 
-## 1. Raycasting 2D (help)
+## 1. Raycasting 2D ([help](https://github.com/florentguittre/workshop-raycasting/blob/main/2d_help.md))
 - Display the map and the player
 - Cast rays and wall collisions
 - Move in the map
 
-## 2. Raycasting 3D (help)
+## 2. Raycasting 3D ([help](https://github.com/florentguittre/workshop-raycasting/blob/main/3d_help.md))
 - Calculating wall width and height
 - Color walls to give them depth
 
