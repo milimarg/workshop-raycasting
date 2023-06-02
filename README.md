@@ -1,5 +1,7 @@
 # Workshop Raycasting
 
+You'll only have to edit functions with comments in it.
+
 ## 1. Raycasting 2D
 - Display the map and the player
 - Cast rays and wall collisions
